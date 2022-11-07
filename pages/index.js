@@ -18,7 +18,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>Gratulerer med 69-års dagen Pappa!</h1>
-        <Image src={Profilepic} alt='Profilepic' width={500} />
+        <Image src={Profilepic} alt='Profilepic' width={250} />
 
         <p className={styles.description}>Men husk, alder er bare et tall!</p>
         <p>Men bursdagsgave blir man aldri for gammel for!</p>
